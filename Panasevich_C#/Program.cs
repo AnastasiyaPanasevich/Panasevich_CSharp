@@ -1,10 +1,10 @@
 ﻿Console.WriteLine("QA Automation Trainee Task 1");
 Console.WriteLine();
 Console.WriteLine("Enter your input and press Enter. The program will:");
-Console.WriteLine("  - Print 'Hello' if you enter a single number greater than 7");
+Console.WriteLine("  - Print 'Hello' if you enter an integer number greater than 7");
 Console.WriteLine("  - Greet you if you enter a single name");
-Console.WriteLine("  - Print multiples of 3 if you enter an array of numbers, separated by space");
-Console.WriteLine("  - Press Enter on an empty line to exit");
+Console.WriteLine("  - Print multiples of 3 if you enter an array of integers, separated by space");
+Console.WriteLine("Press Enter on an empty line to exit");
 Console.WriteLine();
 
 while (true)

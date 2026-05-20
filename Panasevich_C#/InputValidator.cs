@@ -19,7 +19,7 @@
         if (!InputParser.TryParseInt(token, out _))
             throw new AppException(
                 $"'{token}' is not a valid integer. " +
-                "Only whole numbers are accepted (e.g. -1 2 3 4 5).");
+                "Only whole numbers are accepted (e.g. -1 2 3 4 5)");
     }
 
     public static int[] ParseValidIntArray(string[] tokens)
