@@ -34,7 +34,7 @@ The program consists of 6 logical parts.
 
 #### The ability to run the received program
 
-This program does not use any additional libraries or external tools and can be run the standard way. The entry point is ```Program.cs```. No additional configuration is required.
+Built with C#, .NET 8. This program does not use any additional libraries or external tools and can be run the standard way. The entry point is ```Program.cs```. No additional configuration is required.
 
 ## Task 2 Answer the questions
 1. No, I do not consider this sequence to be correct.
