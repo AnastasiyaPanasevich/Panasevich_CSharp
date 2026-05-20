@@ -1,0 +1,1 @@
+﻿internal class AppException(string message) : Exception(message) { }
